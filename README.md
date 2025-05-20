@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # wk-8-Belinda-Apondi-Project
 📝 Project Description
 This project implements a comprehensive database management system for a thrift store using MySQL. It tracks inventory, customers, employees, donors, locations, sales, promotions, and volunteer hours. The goal is to simulate a real-world retail system that ensures data integrity, proper relationships, and normalized structures for efficient management and reporting.
@@ -24,3 +25,8 @@ Accessing the Database:
 Use USE thrift_store_db; to start querying the database.
 
 You can now run custom SELECT, INSERT, or UPDATE queries to explore or expand the system.
+=======
+
+
+
+>>>>>>> 4e9280f6bb4065c8627c3fb72a88ce054926bb23
